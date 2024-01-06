@@ -1,8 +1,6 @@
-Basic Informatics
+# Basic Informatics
 
-# Menjelaskan dan Menginternalisasi Computational Thinking
-
-## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐ .
+## 1. Menjelaskan dan Menginternalisasi Computational Thinking
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐ .
 
